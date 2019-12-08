@@ -1,3 +1,2 @@
-# ug-projects
-Repo of projects from my undergrad
+Undergrad Project for Programming and Data Structures
 # Scrabble Game in C++
